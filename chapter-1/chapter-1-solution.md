@@ -3,7 +3,7 @@
 ## Probem 1
 Print the skeleton of a C program.
 
-## Solution
+**Solution:**
 ```c
 #include<stdio.h>
 int main() {
