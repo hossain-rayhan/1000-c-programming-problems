@@ -5,4 +5,4 @@
 
 
 ## Chapter 1: Play with Printf()
-- ***Problem 1:*** Print the skeleton of a C program. [solution](chapter-1/chapter-1-solution.md#probem-1)
+- ***Problem 1:*** Print the skeleton of a C program. [[solution]](chapter-1/chapter-1-solution.md#probem-1)
