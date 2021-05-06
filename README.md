@@ -10,12 +10,13 @@
 - Chapter 4: Apply your Condition
 - Chapter 5: Magic of Loop
 - Chapter 6: Use of Array
-- Chapter 7: Fun of Function
-- Chapter 8: Start with String
-- Chapter 9: Pointer de Complexity
-- Chapter 10: Structure and Union
-- Chapter 11: Basic of FILE I/O
-- Chapter 12: Math and Coding
+- Chapter 7: Play with Pattern
+- Chapter 8: Fun of Function
+- Chapter 9: Start with String
+- Chapter 10: Pointer de Complexity
+- Chapter 11: Structure and Union
+- Chapter 12: Basic of FILE I/O
+- Chapter 13: Math and Coding
 
 
 
