@@ -17,6 +17,7 @@
 - Chapter 11: Structure and Union
 - Chapter 12: Basic of FILE I/O
 - Chapter 13: Math and Coding
+- Chapter 14: C Programming Project Ideas
 
 
 
