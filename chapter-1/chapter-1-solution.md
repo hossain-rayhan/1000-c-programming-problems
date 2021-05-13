@@ -12,3 +12,16 @@ int main() {
     return 0;
 }
 ```
+## Probem 2
+Print `Hello World` using a C program.
+
+**Solution:**
+```c
+#include<stdio.h>
+int main() {
+    printf("Hello World");
+
+    return 0;
+}
+
+```
