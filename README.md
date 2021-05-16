@@ -25,4 +25,4 @@
 In this chapter, we discuss the process of printing statements in C programming. The examples show various techinques to print in differnt styles using `printf()` function. 
 - ***Problem 1:*** Print the skeleton of a C program. [[solution]](chapter-1/chapter-1-solution.md#probem-1)
 - ***Problem 2:*** Print `Hello World` using a C program. [[solution]](chapter-1/chapter-1-solution.md#probem-2)
-- ***Problem 3:*** Write a program which will print `Hello` and `World` in two different lines.
+- ***Problem 3:*** Write a program which will print `Hello` and `World` in two different lines. [[solution]](chapter-1/chapter-1-solution.md#probem-3)
