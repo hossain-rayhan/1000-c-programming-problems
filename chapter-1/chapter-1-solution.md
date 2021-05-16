@@ -12,6 +12,7 @@ int main() {
     return 0;
 }
 ```
+
 ## Probem 2
 Print `Hello World` using a C program.
 
@@ -20,6 +21,21 @@ Print `Hello World` using a C program.
 #include<stdio.h>
 int main() {
     printf("Hello World");
+
+    return 0;
+}
+
+```
+
+## Probem 3
+Write a program which will print `Hello` and `World` in two different lines.
+
+**Solution:**
+```c
+#include<stdio.h>
+int main() {
+    printf("Hello\n");
+    printf("World");
 
     return 0;
 }
