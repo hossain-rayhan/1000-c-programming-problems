@@ -41,3 +41,17 @@ int main() {
 }
 
 ```
+
+## Probem 4
+Write a program which will print "Hello &nbsp;&nbsp;&nbsp;&nbsp; World". Remember, there is a tab (4 spaces) in between "Hello" and "World".
+
+**Solution:**
+```c
+#include<stdio.h>
+int main() {
+    printf("Hello\tWorld");
+
+    return 0;
+}
+
+```
